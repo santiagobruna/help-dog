@@ -157,6 +157,7 @@ header .container-image img {
     height: 100vh;
     align-items: center;
     justify-content: center;
+    flex-direction: row;
   }
   .sobre-loja div {
     display: flex;
@@ -174,7 +175,8 @@ header .container-image img {
     font-size: 20px;
   }
   .sobre-loja img {
-    max-width: 560px;
+    max-width: 460px;
+    height: 230px;
     width: 100%;
   }
   .produtos .container-produtos ul {
@@ -211,6 +213,7 @@ header .container-image img {
     height: 100vh;
     align-items: center;
     justify-content: center;
+    flex-direction: row;
   }
   .sobre-loja div {
     display: flex;
